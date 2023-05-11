@@ -1,0 +1,24 @@
+{
+  "66b6419b-0a69-467d-8bc1-bb4226e2910b": {
+    "connectionRef": {
+      "displayName": "SharePoint",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1627/1.0.1627.3238/sharepointonline/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_sharepointonline"
+    },
+    "datasets": {
+      "https://nwexteriors.sharepoint.com/sites/WHProduction": {
+        "dataSources": {
+          "HI Spec Board": {
+            "tableName": "685c044f-04a6-45ac-9877-627cdb847761"
+          }
+        }
+      }
+    },
+    "dataSources": [
+      "HI Spec Board"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "66b6419b-0a69-467d-8bc1-bb4226e2910b"
+  }
+}
