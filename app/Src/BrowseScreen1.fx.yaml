@@ -13,6 +13,7 @@
         Color: =RGBA(255, 255, 255, 1)
         DisabledColor: =RGBA(166, 166, 166, 1)
         Fill: =RGBA(58, 58, 58, 0)
+        Font: =Font.Verdana
         Height: =88
         Size: =27
         Text: ="HI Spec Board"
